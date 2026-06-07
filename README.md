@@ -1,75 +1,139 @@
-<h1 align="center">Hi, I'm Aradhana 👋</h1>
-<p align="center">Data Analyst · Economics Researcher · Policy & Quantitative Analytics</p>
+# Aradhana Pandey - Data Analyst Portfolio
 
-<p align="center">
+<p>
+  <a href="https://www.linkedin.com/in/aradhana-pandey-26b0242a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pandeyaradhana360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Ajmer,%20Rajasthan,%20India-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
----
+## About
 
-## About me
+Hi, I'm Aradhana! I have an analytical background in Economics and I'm currently completing my Integrated MSc in Economics at the Central University of Rajasthan. I've built a strong foundation in economics, statistics, and econometrics, along with a genuine interest in using data to uncover meaningful insights. I'm excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst / data specialist.
 
-I'm an Integrated MSc Economics student at the **Central University of Rajasthan** who likes turning messy data into clear answers. My work sits where economics meets analytics: cleaning real-world datasets, writing SQL to pull the story out of them, and using statistics and econometrics to figure out what the numbers actually say about people and policy.
+During my studies, I've sharpened my ability to work with real, messy data and developed a keen eye for identifying patterns and trends. I've also gained hands-on experience in field data collection, data management, and statistical analysis, which I believe will be valuable assets in a data role.
 
-I've collected survey data in the field, modelled credit risk in finance simulations, and built dashboards that non-technical readers can actually use. I'm looking for roles in research, analytics, consulting, or the development sector where I can put those skills to work on decisions that matter.
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-## 🛠 Tech & Tools
+📄 **My CV in PDF** — _coming soon (tip: remove your phone number before publishing a public CV)._
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
-**What I work with:**
-- **Querying & wrangling:** SQL (Joins, CTEs, window functions, views), Python (Pandas, NumPy)
-- **Analysis:** Econometrics, statistics, economic & policy analysis, financial modelling
-- **Reporting:** Excel (PivotTables, charts, interactive dashboards), PowerPoint
+## Table of Contents
 
-## 📊 GitHub Stats
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - **Python**
+    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie-in-progress)
+    - [Tech Store Sales Analysis](#tech-store-sales-analysis-in-progress)
+  - **SQL**
+    - [Covid 19 Data Exploration](#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+  - **Excel / Google Sheets**
+    - [Bike Buyers Purchase Analysis](#bike-buyers-purchase-analysis)
+  - **R** — _coming soon_
+  - **Tableau** — _coming soon_
+  - **Power BI** — _coming soon_
+- [Experience](#experience)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AradhanaPandey360&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Aradhana's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhanaPandey360&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AradhanaPandey360&theme=default&hide_border=true" alt="GitHub streak"/>
-</p>
+## Portfolio Projects
 
-> These cards fill in automatically as projects are pushed to public repositories.
+In this section I list my data analytics projects, briefly describing the technology stack used to solve each case.
 
-## 🚀 Featured Projects
+### 🐍 Python
 
-| Project | What I did | Tech |
-| --- | --- | --- |
-| **COVID-19 Data Exploration** | Explored cases, deaths, and vaccination data across 200+ countries — comparing infection rates, death percentages, and population impact. Built queries with JOINs, CTEs, temp tables, window functions (rolling vaccination totals), and views to prep the data for BI dashboards. | `SQL` `MS SQL Server` |
-| **Nashville Housing Data Cleaning** | Cleaned and standardized a 56,000-row property-sales dataset: fixed date formats, filled missing addresses via self-joins, split combined address fields, and removed duplicates using CTEs and window functions. | `SQL` `MS SQL Server` |
-| **Bike Buyers Purchase Analysis** | Cleaned a 1,000-record customer dataset and built an interactive Excel dashboard with PivotTables and slicers, analysing how income, age, commute distance, and demographics relate to bike-purchase decisions. | `Excel` |
+#### Analyzing the Factors Contributing to the Success of a Movie _(in progress)_
 
-<sub>↳ Replace these with repo links once the project repositories are published.</sub>
+**Goal:** To determine which factors contribute the most to a movie's success.
 
-## 💼 Experience & Certifications
+**Planned approach:** Load a dataset of movies released between 1980 and 2022 (titles, ratings, genres, release dates, budgets, gross earnings), clean and preprocess it, perform exploratory data analysis (EDA), and test the correlation between budget and gross earnings using Pearson's correlation.
 
-- **Field Investigator — Council for Social Development (CSD), New Delhi** · Collected field data for *"Evaluation of 25 Years of Doosra Dashak Journey in Rajasthan"*, a study under an ICSSR-recognised institution.
-- **Event Team Member — Economic Society, Central University of Rajasthan** · Planned seminars, workshops, and panel discussions on economics and public policy; coordinated speakers, logistics, and student outreach.
-- **Goldman Sachs — Risk Job Simulation (Forage)** · Ran individual credit-risk analysis on quantified financial data and recommended mitigation strategies.
-- **J.P. Morgan — Investment Banking Simulation (Forage)** · Identified M&A targets, ran financial analysis, and made investment recommendations across core IB workflows.
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-## 🎓 Education
+**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy.
 
-**Integrated MSc Economics** — Central University of Rajasthan *(2022 – Present)*
-Coursework: Microeconomics, Macroeconomics, Econometrics, Statistics, Public Finance, International Trade Theory & Policy.
+#### Tech Store Sales Analysis _(in progress)_
 
-## 🤝 Connect
+**Goal:** To examine the sales history of a store, extract insights on its performance, and identify potential improvements.
 
+**Planned approach:** Load the sales records (order id, order date, price, quantity ordered, purchase address), clean and preprocess the data, run EDA, and analyze sales by month, city, and most commonly sold items.
+
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Matplotlib.
+
+### 🗄️ SQL
+
+#### Covid 19 Data Exploration
+
+**Code:** `COVID Portfolio Project.sql` _(repo coming soon)_
+
+**Description:** Explored global Covid-19 cases, deaths, and vaccination records across 200+ countries (2020–2021), comparing infection rates, death percentages, and population impact. Built advanced queries to prepare the data for BI dashboards, including rolling vaccination totals.
+
+**Skills:** Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Types.
+
+**Technology:** SQL Server.
+
+#### Nashville Housing Data Cleaning
+
+**Code:** `Nashville Housing Data Cleaning.sql` _(repo coming soon)_
+
+**Description:** Cleaned and standardized a 56,000-row property-sales dataset (2013–2019): converted date formats, populated missing addresses via self-joins, split combined address fields, and removed duplicate records.
+
+**Skills:** DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** SQL Server.
+
+### 📊 Excel / Google Sheets
+
+#### Bike Buyers Purchase Analysis
+
+**Description:** Cleaned a 1,000-record customer dataset and built an interactive Excel dashboard with PivotTables and slicers (Education, Marital Status, Region), analyzing how income, age, commute distance, and demographics relate to bike-purchase decisions.
+
+**Skills:** data cleaning, PivotTables, dashboarding, data visualization.
+
+**Technology:** Microsoft Excel.
+
+### 📈 R
+
+_Coming soon._
+
+### 🔷 Tableau
+
+_Coming soon._
+
+### 📉 Power BI
+
+_Coming soon._
+
+## Experience
+
+**Field Investigator — Council for Social Development (CSD), New Delhi** _(Feb 2026)_
+Collected field data for *"Evaluation of 25 Years of Doosra Dashak Journey in Rajasthan"* in Bap Block, Phalodi District, as part of the study team for an ICSSR-recognised institution.
+
+**Event Team Member — Economic Society, Central University of Rajasthan** _(2025)_
+Planned and executed seminars, workshops, and panel discussions on economics and public policy; coordinated speakers, logistics, and student outreach.
+
+## Education
+
+**Central University of Rajasthan** — Integrated MSc Economics, 2022 – Present
+_Coursework: Microeconomics, Macroeconomics, Econometrics, Statistics, Public Finance, International Trade Theory & Policy._
+
+**D.A.V. Public School** — Senior Secondary (Class XII, CBSE), 2022
+
+**D.A.V. Public School** — Secondary (Class X, CBSE), 2020
+
+## Certificates
+
+The best way to showcase skills is by doing and sharing the work, but sometimes certificates appear as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+- **J.P. Morgan — Investment Banking Job Simulation** (Feb 2026) (Forage) — identified M&A targets, conducted financial analysis, and provided investment recommendations across core IB workflows.
+- **Field Investigator Certificate — Council for Social Development** (Feb 2026) — issued by the Muchkund Dubey Centre for Right to Education (ICSSR-recognised) for field data collection in a government evaluation study.
+- **Goldman Sachs — Risk Job Simulation** (Jun 2025) (Forage) — performed individual credit-risk analysis using quantified financial data and recommended risk-mitigation strategies.
+
+## Contact
+
+- 💼 **LinkedIn:** [@aradhana-pandey](https://www.linkedin.com/in/aradhana-pandey-26b0242a6/)
 - 📧 **Email:** [pandeyaradhana360@gmail.com](mailto:pandeyaradhana360@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) *(update this link)*
-
-<sub>Open to research, analytics, consulting, and development-sector opportunities.</sub>
